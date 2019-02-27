@@ -1,0 +1,5 @@
+This file is to test the repository and branch options of GitHUb
+
+I love roostar sandwiches They are very tasty
+I love to visit places
+I have to complete the source control for this project with the help of Google/Github tutorials 
